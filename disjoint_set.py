@@ -3,8 +3,8 @@
 
 
 class DisjointSet:
-	'''
-	 Disjoint Set data structure (Union–Find), is a data structure that keeps track of a 
+	'''	 
+	Disjoint Set data structure (Unionâ€“Find), is a data structure that keeps track of a 
 	 set of elements partitioned into a number of disjoint (nonoverlapping) subsets.
 	 
 	 Methods:
